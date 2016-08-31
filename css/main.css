@@ -137,16 +137,21 @@ ul {
 	background-color: #E1F2EF;
 	border-top-right-radius: 1.8rem;
 	border-bottom-right-radius: 1.8rem;
+	margin-right: -1px;
 }
 
 .enter-item-blank {
 	border: none;
+	align: right;
 	background-color: white;
 	height: 40px;
 	padding: 0;
-	width: 175px;
+	width: 150px;
 	border-top-left-radius: 1.8rem;
 	border-bottom-left-radius: 1.8rem;
+	margin-left: 25px;
+	box-shadow: none;
+	outline: none;
 }
 
 .list-form {
