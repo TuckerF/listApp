@@ -73,6 +73,9 @@ h4 {
 .cross-through {
 	text-decoration: line-through;
 	color: #B5B5B5;
+	font-family: 'Libre Baskerville';
+	padding-top: .3rem;
+	display: inline-block;
 }
 
 .number {
