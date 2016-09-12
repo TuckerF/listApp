@@ -110,10 +110,6 @@ ul {
 	outline: none;
 }
 
-span .trash-can .fa .plus-sign .fa-plus {
-	color: green;
-}
-
 .li-active {
 	color: #058772;
 	font-family: 'Libre Baskerville';
@@ -148,7 +144,7 @@ span .trash-can .fa .plus-sign .fa-plus {
 }
 
 .plus-sign {
-	color: #2A990B;
+	color: #7C8A7C;
 	margin-left: 5px;
 }
 
